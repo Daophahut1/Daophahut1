@@ -10,3 +10,5 @@ I am also passionate about AI Automation, especially n8n, and am learning and de
 
 I believe in the power of collaboration and continuous learning to drive innovation and deliver exceptional results. Let's connect and create something amazing together!
 
+![GitHub Profile Views](https://gitviews.com/user/daophahut1.svg?style=flat&label-color=%23555&color=%23f59e0b) ![GitHub Repo Views](https://gitviews.com/user/daophahut1/repos.svg?style=flat&label-color=%23555&color=%23f59e0b)
+
