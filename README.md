@@ -56,3 +56,7 @@ I have a huge interest in coding and AI. I love to learn new things and never st
 - 💬 **[imsg](https://github.com/steipete/imsg)** - Send, read, stream iMessage & SMS
 - 🍺 **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
+
