@@ -9,8 +9,6 @@ I have a huge interest in coding and AI. I love to learn new things and never st
 
 > I believe in the power of collaboration and continuous learning to drive innovation and deliver exceptional results. Let's connect and create something amazing together!
 
-![GitHub Profile Views](https://gitviews.com/user/daophahut1.svg?style=flat&label-color=%23555&color=%230bbbf5) ![GitHub Repo Views](https://gitviews.com/user/daophahut1/repos.svg?style=flat&label-color=%23555&color=%230bbbf5)
-
 
 ## GitHub Activity
 
